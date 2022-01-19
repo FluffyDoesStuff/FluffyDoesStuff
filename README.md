@@ -1,6 +1,6 @@
-<h1><strong>Hey!<strong/></h1>
+<h1><strong>Hey!<strong/></h1><h6>I can't use html :(</h6>
 
-<p>I make random stuff and put it here! Below are my github stats.</p>
+<p>I make random stuff and put it here on my github. Below are some stats related to my github account and what I post here.</p>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FluffyDoesStuff&show_icons=true&theme=radical)
 
